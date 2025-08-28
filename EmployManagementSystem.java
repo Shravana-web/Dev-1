@@ -3,13 +3,6 @@
 
 
 
-Amazon Web Services (AWS) is a comprehensive and widely adopted cloud computing platform offered by Amazon, providing on-demand access to a vast array of IT services over the internet.
- It allows individuals, businesses, and governments to rent computing power, storage, databases, networking, machine learning, and other services without the need to purchase and maintain physical hardware, operating on a pay-as-you-go model.
- AWS operates from a global
-
-
-
-
 
 
 
@@ -291,4 +284,5 @@ class EmployManagementSystem
 }
 
 /****************************** CODED BY ABHINAV DUBEY ************************/
+
 
